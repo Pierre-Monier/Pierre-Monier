@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Pierre-Monier/Pierre-Monier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="46.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Monier&title_color=fff&icon_color=63a2ff&text_color=fff&bg_color=151515&layout=compact" /><img width="53.8%" src="https://github-readme-stats.vercel.app/api?username=Pierre-Monier&show_icons=true&title_color=fff&icon_color=63a2ff&text_color=fff&bg_color=151515&count_private=true" />
