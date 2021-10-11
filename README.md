@@ -9,4 +9,36 @@
 <img width="46.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Monier&title_color=fff&icon_color=63a2ff&text_color=fff&bg_color=151515&layout=compact" /><img width="53.8%" src="https://github-readme-stats.vercel.app/api?username=Pierre-Monier&show_icons=true&title_color=fff&icon_color=63a2ff&text_color=fff&bg_color=151515&count_private=true" />
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 212 Contributions in the Year 2021
+ > 
+> 📦 215.2 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 37 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Dart                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Pierre-Monier/Pierre-Monier/main/charts/bar_graph.png) 
+
+
+ Last Updated on 11/10/2021
 <!--END_SECTION:waka-->
