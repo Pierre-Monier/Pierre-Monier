@@ -1,6 +1,6 @@
 <h2> Hi, I'm Pierre Monier ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Linkedin](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierre-monier-026aa3174/)](https://www.linkedin.com/in/pierre-monier-026aa3174/)
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierre-monier-026aa3174/)](https://www.linkedin.com/in/pierre-monier-026aa3174/)
 
 - 🔭 I’m currently working on a lot of stuff
 - 🌱 I’m currently learning [ElectronJs](https://www.electronjs.org/)
