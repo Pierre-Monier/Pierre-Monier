@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 219 Contributions in the Year 2021
+> 🏆 221 Contributions in the Year 2021
  > 
 > 📦 215.3 kB Used in GitHub's Storage 
  > 
@@ -36,7 +36,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Pierre-Monier/Pierre-Monier/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2021
+ Last Updated on 20/10/2021
 <!--END_SECTION:waka-->
 
 
