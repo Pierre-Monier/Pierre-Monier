@@ -9,24 +9,24 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 409 Contributions in the Year 2021
+> 🏆 416 Contributions in the Year 2021
  > 
-> 📦 215.3 kB Used in GitHub's Storage 
+> 📦 215.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Dart                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+Dart                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
 
 ```
 
@@ -36,7 +36,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Pierre-Monier/Pierre-Monier/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/11/2021
+ Last Updated on 03/11/2021
 <!--END_SECTION:waka-->
 
 
