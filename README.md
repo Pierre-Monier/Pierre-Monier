@@ -8,5 +8,20 @@
 
 <br>
 
+<h1>Contact me</h1>
+
+<i>I love to meet new people so don't hesitate contact me if you want :)</i>
+
 [![Discord](https://img.shields.io/badge/discord-5865f2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/338345652939390978)](https://discord.com/users/338345652939390978)
+
+<h1>You can follow me on these social networks</h2>
+
 [![Linkedin](https://img.shields.io/badge/linkedin-5ab0f7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierre-monier-026aa3174/)](https://www.linkedin.com/in/pierre-monier-026aa3174/)
+
+<h1>You can find my articles here</h1>
+
+<i>I will appreciate any feedback, I'm still new to content writing :)</i>
+
+<a href="https://pmonier.medium.com/getting-waveform-data-with-flutter-and-ffmpeg-32b7abe2a026">Getting waveform data with flutter and FFmpeg</a>
+<a href="https://pmonier.medium.com/flutter-add-an-undo-feature-6808b58f88b9">Flutter, add an undo feature</a>
+<a href="https://pmonier.medium.com/get-the-best-out-of-flutter-flavors-with-flutter-flavorizr-5c5da0f00b99">Get the best out of Flutter flavors with flutter_flavorizr</a>
