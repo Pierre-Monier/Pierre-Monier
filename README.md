@@ -3,7 +3,7 @@
 <h1 align="center">GitHub Infos</h1>
 
 <p align="center">
-<img alt="MeixDev's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=meixdev&theme=synthwave&show_icons=true">
+<img alt="Pierre-Monier GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Pierre-Monier&bg_color=2a251f&border_radius=20&title_color=d6c9bc&icon_color=d6c9bc&text_color=ffffff&show_icons=true">
 </p>
 
 <br>
