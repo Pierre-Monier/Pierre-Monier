@@ -1,8 +1,8 @@
 <h2> Hi, I'm Pierre Monier ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<h1 align="center">GitHub Infos</h1>
 
-<p align="center">
+
+<p align="left">
 <img alt="Pierre-Monier GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Pierre-Monier&bg_color=2a251f&border_radius=20&title_color=d6c9bc&icon_color=d6c9bc&text_color=ffffff&show_icons=true">
 </p>
 
