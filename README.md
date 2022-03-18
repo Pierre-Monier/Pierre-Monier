@@ -23,5 +23,8 @@
 <i>I will appreciate any feedback, I'm still new to content writing :)</i>
 
 <a href="https://pmonier.medium.com/getting-waveform-data-with-flutter-and-ffmpeg-32b7abe2a026">Getting waveform data with flutter and FFmpeg</a>
+<br>
 <a href="https://pmonier.medium.com/flutter-add-an-undo-feature-6808b58f88b9">Flutter, add an undo feature</a>
+<br>
 <a href="https://pmonier.medium.com/get-the-best-out-of-flutter-flavors-with-flutter-flavorizr-5c5da0f00b99">Get the best out of Flutter flavors with flutter_flavorizr</a>
+<br>
