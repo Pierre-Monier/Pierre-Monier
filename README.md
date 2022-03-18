@@ -10,13 +10,13 @@
 
 <h1>Contact me</h1>
 
-<i>I love to meet new people so don't hesitate contact me if you want :)</i>
+<i>I love to meet new peoples so don't hesitate contact me if you want :)</i>
 
-[![Discord](https://img.shields.io/badge/discord-5865f2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/338345652939390978)](https://discord.com/users/338345652939390978)
+[![Discord](https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.com/users/338345652939390978)](https://discord.com/users/338345652939390978)
 
 <h1>You can follow me on these social networks</h2>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-5ab0f7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierre-monier-026aa3174/)](https://www.linkedin.com/in/pierre-monier-026aa3174/)
+[![Linkedin](https://img.shields.io/badge/linkedin-5ab0f7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierre-monier-026aa3174/)](https://www.linkedin.com/in/pierre-monier-026aa3174/)
 
 <h1>You can find my articles here</h1>
 
