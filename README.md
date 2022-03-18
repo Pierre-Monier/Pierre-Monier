@@ -10,7 +10,7 @@
 
 <h1>Contact me</h1>
 
-<i>I love to meet new peoples so don't hesitate contact me if you want :)</i>
+<i>I love to meet new peoples so don't hesitate to contact me if you want :)</i>
 
 [![Discord](https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.com/users/338345652939390978)](https://discord.com/users/338345652939390978)
 [![Twitter](https://img.shields.io/badge/twitter-1da1f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Monier96P)](https://twitter.com/Monier96P)
