@@ -21,7 +21,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-1da1f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Monier96P)](https://twitter.com/Monier96P)
 [![Linkedin](https://img.shields.io/badge/linkedin-5ab0f7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierre-monier-026aa3174/)](https://www.linkedin.com/in/pierre-monier-026aa3174/)
 
-<h1>You can find my articles here</h1>
+<h1>You can find my latest articles here</h1>
 
 <i>I will appreciate any feedback, I'm still new to content writing :)</i>
 
