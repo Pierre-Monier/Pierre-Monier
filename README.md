@@ -27,4 +27,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting waveform data with flutter and FFmpeg](https://pmonier.medium.com/getting-waveform-data-with-flutter-and-ffmpeg-32b7abe2a026?source=rss-de40fb673fd9------2)
+- [Flutter, add an undo feature](https://pmonier.medium.com/flutter-add-an-undo-feature-6808b58f88b9?source=rss-de40fb673fd9------2)
+- [Get the best out of Flutter flavors with flutter_flavorizr](https://pmonier.medium.com/get-the-best-out-of-flutter-flavors-with-flutter-flavorizr-5c5da0f00b99?source=rss-de40fb673fd9------2)
 <!-- BLOG-POST-LIST:END -->
