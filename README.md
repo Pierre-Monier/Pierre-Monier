@@ -19,9 +19,6 @@
 
 <h1>You can find my latest articles here</h1>
 
-<i>I will appreciate any feedback, I'm still new to content writing :)</i>
-
-
 <!-- BLOG-POST-LIST:START -->
 - [Run Go in Dart VM with dart:ffi](https://pmonier.medium.com/run-go-in-dart-vm-with-dart-ffi-7d3575fe9c0b?source=rss-de40fb673fd9------2)
 - [Getting waveform data with flutter and FFmpeg](https://pmonier.medium.com/getting-waveform-data-with-flutter-and-ffmpeg-32b7abe2a026?source=rss-de40fb673fd9------2)
