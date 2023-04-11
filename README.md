@@ -20,7 +20,7 @@
 <h1>You can find my latest articles here</h1>
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure Firebase Cloud Function with an API key](https://pmonier.medium.com/secure-firebase-cloud-function-with-an-api-key-37028dee39e0?source=rss-de40fb673fd9------2)
 - [Run Go in Dart VM with dart:ffi](https://pmonier.medium.com/run-go-in-dart-vm-with-dart-ffi-7d3575fe9c0b?source=rss-de40fb673fd9------2)
 - [Getting waveform data with flutter and FFmpeg](https://pmonier.medium.com/getting-waveform-data-with-flutter-and-ffmpeg-32b7abe2a026?source=rss-de40fb673fd9------2)
-- [Flutter, add an undo feature](https://pmonier.medium.com/flutter-add-an-undo-feature-6808b58f88b9?source=rss-de40fb673fd9------2)
 <!-- BLOG-POST-LIST:END -->
